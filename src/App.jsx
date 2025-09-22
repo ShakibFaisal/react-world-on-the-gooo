@@ -9,7 +9,7 @@ function App() {
   return (
     <>
       
-      <h1>Welcome</h1>
+      <h1 className="border-2 border-amber-600">Welcome</h1>
       <Countries></Countries>
     
     </>
